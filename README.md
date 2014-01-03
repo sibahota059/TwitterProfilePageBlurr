@@ -1,4 +1,4 @@
-TwitterProfilePageBlurr
+Twitter app like Profile Image Blurr effect.
 =======================
 
-Twitterapp like Profile screen Image blurr
+Make a blur effect when you drag to the top of a UITableView like on twitter and in tweetbot.
