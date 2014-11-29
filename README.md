@@ -1,7 +1,7 @@
 Twitter app like Profile Image Blurr effect.
 =======================
 
-This project is an attempt to Make a blur effect when you drag to the top of a UITableView like on twitter and in tweetbot.
+This project is an attempt to Make a blur effect when you drag down the top of a UITableView like on twitter and in tweetbot.
 
 ![Screenshot](/sample.gif)                 
 
